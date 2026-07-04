@@ -9,3 +9,4 @@ tqdm
 kaggle
 sentence-transformers
 torchvision
+ipywidgets
