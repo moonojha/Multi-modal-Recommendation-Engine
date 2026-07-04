@@ -1,8 +1,11 @@
 torch
 pandas
 numpy
-sklearn
+scikit-learn
 tensorflow
 keras
 Pillow
 tqdm
+kaggle
+sentence-transformers
+torchvision
